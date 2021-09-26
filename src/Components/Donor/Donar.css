@@ -9,3 +9,12 @@
     margin-right: 6px;
 }
 
+.cart-details{
+    background: linear-gradient(hsl(50, 78%, 36%), hsl(309, 89%, 83%));
+    transition: .3s;
+}
+
+.cart-details:hover{
+    transform: translateY(-10px);
+    transition: .3s;
+}

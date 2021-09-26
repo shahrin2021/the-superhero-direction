@@ -7,8 +7,9 @@ const Cart = (props) => {
 
 const {carts} = props
 
-let total = 0;
+
 // total donation
+let total = 0;
 for(const price of carts){
 
     total = total + price.donate;

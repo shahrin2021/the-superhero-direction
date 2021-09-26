@@ -9,7 +9,7 @@ const DonarArea = () => {
     
 
   
-
+// fack data call
 
     useEffect(()=>{
         fetch("./FackData.json")
@@ -41,16 +41,8 @@ const DonarArea = () => {
                                 key={donor.id}
                                 donor={donor}
                                 countDonor={countDonar}
-                    
-                                >
-                                
-                                </Donor>)
-                                
-                                
-                        }
-
-                        
-                           
+                    > </Donor>)      
+                        }   
                         
                     </div>
                 </div>

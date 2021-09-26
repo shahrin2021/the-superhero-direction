@@ -4,7 +4,7 @@ import "./Donar.css"
 const Donor = (props) => {
     const {name, age, id, img, netWorth, otherAssets, donate, residence,founder} =props.donor
     
-   
+  //  donor details in cart 
     return (
         <div className='p-2 '> 
             <div className="col  ">
@@ -16,6 +16,7 @@ const Donor = (props) => {
       <div className="card-body">
           <h5> Name : {name}</h5>
           <h6>Founder : {founder}</h6>
+
           <p>Age: {age}</p>
         <small className="">Residence : {residence}</small>
         <h6>Net Worth: {netWorth}</h6>

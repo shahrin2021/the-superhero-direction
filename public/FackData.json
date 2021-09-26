@@ -2,7 +2,7 @@
     {
       "name": "Jeff Bezos",
       "id": 1,
-      "donate": 68890358,
+      "donate": 68890,
       "img": "https://www.investopedia.com/thmb/tSwxM9QX5OHrhE-PGc4kJM4Pv8I=/3000x2000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1036094130-cf8da629f9b44c81a0b1398311ac5787.jpg",
       "founder": "Amazon",
       "age": 58,
@@ -13,7 +13,7 @@
     {
       "name": "Elon Musk",
       "id": 2,
-      "donate": 87679529,
+      "donate": 87679,
       "img": "https://www.investopedia.com/thmb/otMmLRn6NvfUnec6oc5NoxCyxJo=/5760x3840/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215628293-c32a14bc41c34aa9adee9e41f6c7fb68.jpg",
       "founder": "Space X ",
       "age": 50,
@@ -24,7 +24,7 @@
     {
       "name": "Bernard Arnault",
       "id": 3,
-      "donate": 99678543,
+      "donate": 99678,
       "img": "https://www.investopedia.com/thmb/VlGMJhb0sSHjxDWCEygMFWmkCz0=/5760x3840/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-696695914-895a5475a7f8412c9239900be0ea5179.jpg",
       "founder": "LVMH",
       "age": 52,
@@ -35,7 +35,7 @@
     {
       "name": "Bill Gates",
       "id": 4,
-      "donate": 97878543,
+      "donate": 97878,
       "img": "https://www.investopedia.com/thmb/icJdqw3xd1D35PRSBeKd-cl6mYI=/4500x3000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-948065808-ba10e6df430c414fbc496dededf1db2b.jpg",
       "founder": "Microsoft",
       "age": "65",
@@ -46,7 +46,7 @@
     {
       "name": "Mark Zuckerberg",
       "id": 5,
-      "donate": 76775433,
+      "donate": 76775,
       "img": "https://www.investopedia.com/thmb/5vTHQfH-3s7E9s_-CbSC1ZK0wsI=/4234x3271/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-688402250-c3fd58b6a99a4729a821205bfac67168.jpg",
       "founder": "Facebook",
       "age": 37,
@@ -57,7 +57,7 @@
     {
       "name": "Warren Buffett",
       "id": 6,
-      "donate": 94548543,
+      "donate": 94548,
       "img": "https://www.investopedia.com/thmb/QU83H3zJ_8Af_KqdhNvhTP2YsCI=/3000x2101/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-540179188-f820573a1328459cb5cedac011088d4c.jpg",
       "founder": "Berkshire Hathaway ",
       "age": 91,
@@ -68,7 +68,7 @@
     {
       "name": "Larry Ellison",
       "id": 7,
-      "donate": 96734564,
+      "donate": 96734,
       "img": "https://www.investopedia.com/thmb/RtSXbiIpriVRMRjiAivzBVtIMY4=/5184x3456/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1183284102-5aa79849742e4d3e9916fe605a14d803.jpg",
       "founder": " Oracle (ORCL)",
       "age": 77,
@@ -79,7 +79,7 @@
     {
       "name": "Larry Page",
       "id": 8,
-      "donate": 6778893,
+      "donate": 67788,
       "img": "https://www.investopedia.com/thmb/p0Fmg9R6XodoQtJraaWrWZjU_T8=/3000x2009/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-144948913-67ccee1c4f4c4845b69f4deb67bc6c7c.jpg",
       "founder": "Alphabet(GOOG)",
       "age": 48,

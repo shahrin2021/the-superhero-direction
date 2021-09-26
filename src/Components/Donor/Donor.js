@@ -1,0 +1,33 @@
+import React from 'react';
+import "./Donar.css"
+
+const Donor = (props) => {
+    const {name, age, id, img, netWorth, otherAssets, donate, residence,founder} =props.donor
+    
+   
+    return (
+        <div className='p-2'> 
+            <div className="col ">
+    <div className="card h-100">
+        <div className='img-area'>
+        <img src={img} className="card-img-top donor-img" alt="..."/>
+        </div>
+      
+      <div className="card-body">
+          <h5> Name : {name}</h5>
+          <h6>Founder : {founder}</h6>
+          <p>Age: {age}</p>
+        <small className="">Residence : {residence}</small>
+        <h6>Net Worth: {netWorth}</h6>
+        <h6>Donation : {donate}</h6>
+        <p className="card-text">{otherAssets.slice(0,24)}</p>
+        <button onClick={()=>props.countDonor(props.donor)} className="btn btn-danger"> <i className="fas fa-donate btn-icon"></i>Donate</button>
+      </div>
+    </div>
+  </div> 
+
+        </div>
+    );
+};
+
+export default Donor;
